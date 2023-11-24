@@ -1,5 +1,5 @@
 {
-    "name": "pxt-starter",
+    "name": "banbao-starter",
     "version": "1.0.1",
     "description": "",
     "dependencies": {
@@ -11,10 +11,10 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh-CN/pxt-starter-jsdoc-strings.json",
-        "_locales/zh-CN/pxt-starter-strings.json",
-        "_locales/zh-TW/pxt-starter-jsdoc-strings.json",
-        "_locales/zh-TW/pxt-starter-strings.json"
+        "_locales/zh-CN/banbao-starter-jsdoc-strings.json",
+        "_locales/zh-CN/banbao-starter-strings.json",
+        "_locales/zh-TW/banbao-starter-jsdoc-strings.json",
+        "_locales/zh-TW/banbao-starter-strings.json"
     ],
     "testFiles": [
         "test.ts"
